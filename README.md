@@ -4,6 +4,10 @@
 
 ![](login.png)
 
+## 官方地址
+
+<a href="http://ldapauth.com" target="_blank">http://ldapauth.com</a>
+
 ## 官方联系邮箱
 
 contact@ldapauth.com
