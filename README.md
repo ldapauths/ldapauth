@@ -4,6 +4,14 @@
 
 ![](login.png)
 
+## 官方联系邮箱
+
+contact@ldapauth.com
+
+## 官方联系微信
+
+<img src="weixin.jpg" style="width: 250px">
+
 ## 单点登录
 单点登录(Single Sign On)简称为SSO
 
